@@ -116,3 +116,4 @@ Focus on benefits: Instead of listing features, emphasize the benefits that thos
 Use bullet points: This format makes it easy for readers to quickly scan the information.
 Prioritize key features: Highlight the most important aspects of the product.
 Use strong action verbs: Start your bullet points with action verbs to make them more impactful.
+# python-week-1-Introduction-to-python
